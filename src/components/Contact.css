@@ -1,0 +1,65 @@
+#contact{
+    height:100%;
+    background-image: url(../img/contact.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding:2rem 4rem;
+    width:100%;
+}
+
+#contact h1{
+    text-align: center;
+    font-weight: 600;
+    font-family: "Poppins",sans-serif;
+    font-size: 3rem;
+}
+
+.contact-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+}
+
+.contact-section from {
+    width:100%;
+}
+
+.form-group input,textarea{
+    width:100%;
+    padding:1rem;
+    margin:0.5rem 0.7rem;
+    border:2px solid rgba(0,0,0,0.85);
+    outline: none;
+    border-radius: 4px;
+    
+}
+
+.form-group label{
+    font-size: 1.2rem;
+    font-family: "Poppins",sans-serif;
+    font-weight: 500;
+}
+
+
+.form-btn{
+    margin:0.8rem auto;
+    padding:0.9rem 1.5rem;
+    text-align: center;
+    display:block;
+    font-size: 1.5rem;
+    border:2px solid cornflowerblue;
+    outline: none;
+    font-weight:600;
+    border-radius: 2px;
+    background-color: cornflowerblue;
+    color:rgba(255,255,255,0.85);
+    transition: all 0.1s ease-out;
+    cursor: pointer;
+}
+.form-btn:hover{
+    color:rgba(255,255,255,1);
+    background-color: rgb(149, 184, 248);
+
+}

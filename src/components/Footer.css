@@ -1,0 +1,47 @@
+#footer{
+    height:20vh;
+    background-color: cornflowerblue;
+    margin:0.7rem 0rem;
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 0 10px 20px -5px rgb(38,57,77);
+    align-items: center;
+}
+
+.top-foot p{
+    font-size: 1.1rem;
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+}
+
+.bottom-foot ul{
+    display: flex;
+    list-style: none;   
+}
+
+.bottom-foot li {
+    margin:0px 4px;
+}
+
+.bottom-foot li a {
+    color:#000;
+    text-decoration: none;
+}
+
+
+
+/* Responsive Media Query */
+
+
+@media only screen and (max-width:486px){
+    #footer{
+
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width:320px){
+    .top-foot p{
+        font-size:0.8rem;
+    }
+}

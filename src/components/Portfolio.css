@@ -1,0 +1,22 @@
+img{
+   max-width:100%;
+}
+
+#portfolio{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-gap:40px;
+    padding:1rem 2rem;
+}
+
+
+
+
+
+/* Responsive Media Query */
+
+@media only screen and (max-width:320px){
+    img{
+        max-width:90%;
+    }
+}
