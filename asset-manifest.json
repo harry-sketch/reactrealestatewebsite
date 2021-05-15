@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reactrealestatewebsite/static/css/main.e9111eac.chunk.css",
+    "main.js": "/reactrealestatewebsite/static/js/main.a0d6a068.chunk.js",
+    "main.js.map": "/reactrealestatewebsite/static/js/main.a0d6a068.chunk.js.map",
+    "runtime-main.js": "/reactrealestatewebsite/static/js/runtime-main.ce8927e5.js",
+    "runtime-main.js.map": "/reactrealestatewebsite/static/js/runtime-main.ce8927e5.js.map",
+    "static/js/2.86a65580.chunk.js": "/reactrealestatewebsite/static/js/2.86a65580.chunk.js",
+    "static/js/2.86a65580.chunk.js.map": "/reactrealestatewebsite/static/js/2.86a65580.chunk.js.map",
+    "index.html": "/reactrealestatewebsite/index.html",
+    "static/css/main.e9111eac.chunk.css.map": "/reactrealestatewebsite/static/css/main.e9111eac.chunk.css.map",
+    "static/js/2.86a65580.chunk.js.LICENSE.txt": "/reactrealestatewebsite/static/js/2.86a65580.chunk.js.LICENSE.txt",
+    "static/media/about.aa920e19.png": "/reactrealestatewebsite/static/media/about.aa920e19.png",
+    "static/media/Contact.css": "/reactrealestatewebsite/static/media/contact.1afd3041.png",
+    "static/media/home.0dd696c1.jpg": "/reactrealestatewebsite/static/media/home.0dd696c1.jpg",
+    "static/media/img-1.c81dc670.jpg": "/reactrealestatewebsite/static/media/img-1.c81dc670.jpg",
+    "static/media/img-2.a1863581.jpg": "/reactrealestatewebsite/static/media/img-2.a1863581.jpg",
+    "static/media/img-3.e0e22c64.jpg": "/reactrealestatewebsite/static/media/img-3.e0e22c64.jpg",
+    "static/media/img-4.e6c9be23.jpg": "/reactrealestatewebsite/static/media/img-4.e6c9be23.jpg",
+    "static/media/img-5.6089cdba.jpg": "/reactrealestatewebsite/static/media/img-5.6089cdba.jpg",
+    "static/media/img-6.19acc8ae.jpg": "/reactrealestatewebsite/static/media/img-6.19acc8ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce8927e5.js",
+    "static/js/2.86a65580.chunk.js",
+    "static/css/main.e9111eac.chunk.css",
+    "static/js/main.a0d6a068.chunk.js"
+  ]
+}
